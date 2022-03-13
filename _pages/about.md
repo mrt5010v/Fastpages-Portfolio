@@ -4,8 +4,5 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Data Science and Machine Learning Enthusiast **[Mladen Tsolov](https://mrt5010v.github.io/Fastpages-Portfolio)** [^1].
+[^1]: Welcome to my portfolio, where you can see my projects.
