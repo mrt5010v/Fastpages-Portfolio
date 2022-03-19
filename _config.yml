@@ -40,7 +40,7 @@ baseurl: "/Fastpages-Portfolio" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: 
-    github: https://github.com/mrt5010v
+    github:
     linkedin: 
     
 
