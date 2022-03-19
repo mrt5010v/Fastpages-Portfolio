@@ -13,17 +13,6 @@
   
     
         ,"post1": {
-            "title": "Data Science Project For Finding Property Prices",
-            "content": ". Approximate house price finder . The price of a property depends on many indicators, some of them are: location, size, amenities, access to facilities and many more. In this Jupyter Notebook you can see how I managed to find an average price of a house in a given address. . In the following Jupyter Notebook links you can see the code and interactive visualizations. . Please Note: Some cell outputs are lengthy. Please scroll down to continue. . This link will use my repository in Github and will generate the project: | . https://nbviewer.org/github/mrt5010v/Data-Science-Project-For-Finding-Property-Prices/blob/main/Approximate%20house%20price%20finder.ipynb . If you want to test the code and modify the Jupyter Ntebook you might want to try the Binder compiler from the header options from the link above. . .",
-            "url": "https://mrt5010v.github.io/Fastpages-Portfolio/2022/03/18/Data-Science-Project-For-Finding-Property-Prices.html",
-            "relUrl": "/2022/03/18/Data-Science-Project-For-Finding-Property-Prices.html",
-            "date": " • Mar 18, 2022"
-        }
-        
-    
-  
-    
-        ,"post2": {
             "title": "Data Science Project For Properties - Cleaning, Visualization on a Real Map, Average Price Property Finder and a Pinch of Machine Learning",
             "content": "The price of a property depends on many indicators, some of them are: location, size, amenities, access to facilities and many more. In this Jupyter Notebook you can see how I managed to find an average price of a house in a given address. . In the following Jupyter Notebook link you can see the code and interactive visualizations. . Because the visualizations do not load properly here please use the following link below. . It will use my repository in Github and will generate the project: . https://nbviewer.org/github/mrt5010v/Data-Science-Project-For-Finding-Property-Prices/blob/main/Approximate%20house%20price%20finder.ipynb . You can modify the code with Binder as well .",
             "url": "https://mrt5010v.github.io/Fastpages-Portfolio/data%20science/data%20visualization/data%20tidying%20and%20cleaning/pandas/folium/k-nn/machine%20learning/2022/03/18/Data-Science-Project-For-Finding-Property-Prices-portfolio.html",
