@@ -22,6 +22,17 @@
         
     
   
+    
+        ,"post2": {
+            "title": "Data Science Project For Finding Property Prices",
+            "content": "The price of a property depends on many indicators, some of them are: location, size, amenities, access to facilities and many more. In this Jupyter Notebook you can see how I managed to find an average price of a house in a given address. . In the following Jupyter Notebook link you can see the code and interactive visualizations. . Because the visualizations do not load properly here please use the following link below. . It will use my repository in Github and will generate the project: . https://nbviewer.org/github/mrt5010v/Data-Science-Project-For-Finding-Property-Prices/blob/main/Approximate%20house%20price%20finder.ipynb . You can modify the code with Binder as well .",
+            "url": "https://mrt5010v.github.io/Fastpages-Portfolio/data%20science/data%20visualization/data%20tidying%20and%20cleaning/pandas/folium/2022/03/18/Data-Science-Project-For-Finding-Property-Prices-portfolio.html",
+            "relUrl": "/data%20science/data%20visualization/data%20tidying%20and%20cleaning/pandas/folium/2022/03/18/Data-Science-Project-For-Finding-Property-Prices-portfolio.html",
+            "date": " • Mar 18, 2022"
+        }
+        
+    
+  
 
   
   
